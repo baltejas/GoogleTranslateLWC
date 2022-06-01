@@ -8,6 +8,7 @@ public with sharing class TranslateService {
         Http http = new Http();
         req.setEndpoint('https://google-translate1.p.rapidapi.com/language/translate/v2');
         req.setMethod('POST');
+        // Your api key here
         req.setHeader('X-RapidAPI-Key', 'xxx');
         req.setHeader('X-RapidAPI-Host', 'google-translate1.p.rapidapi.com');
         req.setHeader('content-type', 'application/x-www-form-urlencoded');
