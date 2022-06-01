@@ -8,11 +8,11 @@ force-app/main/default/classes/TranslateService.cls
 
 force-app/main/default/classes/TranslateService.cls-meta.xml
 
-force-app/main/default/lwc/crypto/translate.html
+force-app/main/default/lwc/translate/translate.html
 
-force-app/main/default/lwc/crypto/translate.js
+force-app/main/default/lwc/translate/translate.js
 
-force-app/main/default/lwc/crypto/translate.js-meta.xml
+force-app/main/default/lwc/translate/translate.js-meta.xml
 
 ## Read All About It
 
